@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListExports&k=1:
+  /?Action=ListExports:
     get:
       summary: ' List Exports '
       description: Lists all exported output values in the account and region in which

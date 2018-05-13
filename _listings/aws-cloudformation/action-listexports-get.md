@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS CloudFormation API
+  title: AWS CloudFormation API List Exports
   version: 1.0.0
+  description: Lists all exported output values in the account and region in which
+    you call this action.
 schemes:
 - http
 produces:

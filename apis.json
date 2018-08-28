@@ -1,0 +1,318 @@
+{
+	"name": "Streadata.io API Gallery - Exports",
+	"description": "This is a repository of exports APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/exports.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://exports.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Disqus",
+			"x-api-slug": "disqus",
+			"description": "Disqus offers the best add-on tools for websites to increase engagement. We help publishers power online discussions with comments and earn revenue with native advertising.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/182-disqus.jpg",
+			"humanURL": "https://disqus.com/",
+			"baseURL": "https:///",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/disqus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Instructure",
+			"x-api-slug": "instructure",
+			"description": "Instructure makes software that makes smarter people. Products include Canvas LMS, Bridge and Canvas Network.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/820-instructure.jpg",
+			"humanURL": "http://instructure.com",
+			"baseURL": "https://canvas.instructure.com//api/v1",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/instructure/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpenDataSoft",
+			"x-api-slug": "opendatasoft",
+			"description": "OpenDataSoft is a cloud-based turnkey platform for data publishing and API management. Its interface is intuitively designed to empower anyone, regardless of technical skills, to upload easy-to-understand Open Data, or to even share data within an admi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2716-opendatasoft.jpg",
+			"humanURL": "http://opendatasoft.com",
+			"baseURL": "https://public.opendatasoft.com//api/v2",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/opendatasoft/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Watchful",
+			"x-api-slug": "watchful",
+			"description": "Watchful resulted from the need for a single, unified dashboard to easily monitor all of the web sites in our portfolios. After years of evolution, our solution has matured into a simple, complete and professional service.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/watchful-li-logo.jpg",
+			"humanURL": "http://watchful.li",
+			"baseURL": "https://watchful.li//api/v1",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/watchful/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CloudFormation",
+			"x-api-slug": "aws-cloudformation",
+			"description": "AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.You can use AWS CloudFormations?sample templates?or create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your application. You do not need to figure out the order for provisioning AWS services or the subtleties of making those dependencies work. CloudFormation takes care of this for you. After the AWS resources are deployed, you can modify and update them in a controlled and predictable way, in effect applying version control to your AWS infrastructure the same way you do with your software. You can also visualize your templates as diagrams and edit them using a drag-and-drop interface with the?AWS CloudFormation Designer.You can deploy and update a template and its associated collection of resources (called a stack) by using the AWS Management Console, AWS Command Line Interface, or APIs. CloudFormation is available at no additional charge, and you pay only for the AWS resources needed to run your applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudFormation.png",
+			"humanURL": "https://aws.amazon.com/cloudformation/",
+			"baseURL": ":///",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/aws-cloudformation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2",
+			"x-api-slug": "aws-ec2",
+			"description": "Amazon Elastic Compute Cloud is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon&rsquo;s proven computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change. Amazon EC2 changes the economics of computing by allowing you to pay only for capacity that you actually use. Amazon EC2 provides developers the tools to build failure resilient applications and isolate themselves from common failure scenarios.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/",
+			"baseURL": ":///",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/aws-ec2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud SQL",
+			"x-api-slug": "google-cloud-sql",
+			"description": "Cloud SQL is a fully-managed database service that makes it easy to set up, maintain, manage, and administer your relational PostgreSQL BETA and MySQL databases in the cloud. Cloud SQL offers high performance, scalability, and convenience. Hosted on Google Cloud Platform, Cloud SQL provides a database infrastructure for applications running anywhere.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-sql-lead-2x.png",
+			"humanURL": "https://cloud.google.com/sql/",
+			"baseURL": "://www.googleapis.com//sql/v1beta4",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/google-cloud-sql/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kaltura",
+			"x-api-slug": "kaltura",
+			"description": "A recognized leader in the OTT TV (Over the Top TV), OVP (Online Video Platform), EdVP (Education Video Platform) and EVP (Enterprise Video Platform) markets, Kaltura has emerged as the fastest growing video platform, and as the one with the widest use-case and appeal. Kaltura is deployed globally in thousands of enterprises, media companies, service providers and educational institutions and engages hundreds of millions of viewers at home, in work, and at school. The company is committed to its core values of openness, flexibility, and collaboration, and is the initiator and backer of the worlds leading open-source video-management project, which is home to more than 100,000 community members.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg",
+			"humanURL": "http://kaltura.com",
+			"baseURL": "https://www.kaltura.com//api_v3",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/kaltura/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Botify",
+			"x-api-slug": "botify",
+			"description": "We are passionate about SEO. Botify offers unparalleled insights into your websites SEO through crawl data and log analysis.    Optimize your website and see the organic traffic results youve been seeking. Founded in 2012, Botify is a SaaS SEO platfo...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28561-botify.jpg",
+			"humanURL": "http://www.botify.com",
+			"baseURL": "https://api.botify.com//v1",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/botify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Backupify",
+			"x-api-slug": "backupify",
+			"description": "",
+			"image": "",
+			"humanURL": "http://backupify.com",
+			"baseURL": "https://api.backupify.com//",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/backupify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/dezrez/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Logicbroker",
+			"x-api-slug": "logicbroker",
+			"description": "Logicbroker provides beautiful technology that unites brands, retailers, and the systems they rely on. Harness the latest in cloud and supply chain automation technology with unrivaled speed and integration flexibility. We craft the connections that enable digital commerce.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logicbroker-logo.png",
+			"humanURL": "https://www.logicbroker.com/",
+			"baseURL": "https://stage.commerceapi.io//",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/logicbroker/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Docsmore",
+			"x-api-slug": "docsmore",
+			"description": "FORM.FILL.SIGN - With Docsmore, the process of setting up a form and sending to users to complete or sign is simplified.  Use our platform to easily upload a document, specify form fields/signage, and send to users for completion.  Present forms to you...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28946-api-docsmore-com.jpg",
+			"humanURL": "http://api.docsmore.com",
+			"baseURL": "https://api.docsmore.com//",
+			"tags": "Exports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/docsmore/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Exports",
+	"include": [
+		{
+			"name": "Disqus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/disqus/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "Instructure",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/instructure/apis.yaml"
+		},
+		{
+			"name": "OpenDataSoft",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/opendatasoft/apis.yaml"
+		},
+		{
+			"name": "Watchful",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/watchful/apis.yaml"
+		},
+		{
+			"name": "AWS CloudFormation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/aws-cloudformation/apis.yaml"
+		},
+		{
+			"name": "AWS EC2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/aws-ec2/apis.yaml"
+		},
+		{
+			"name": "Google Cloud SQL",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/google-cloud-sql/apis.yaml"
+		},
+		{
+			"name": "Kaltura",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/kaltura/apis.yaml"
+		},
+		{
+			"name": "Botify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/botify/apis.yaml"
+		},
+		{
+			"name": "Backupify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/backupify/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/gig--crowd/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/dezrez/apis.yaml"
+		},
+		{
+			"name": "Logicbroker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/logicbroker/apis.yaml"
+		},
+		{
+			"name": "Docsmore",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/exports/master/_listings/docsmore/apis.yaml"
+		}
+	]
+}
